@@ -1,5 +1,5 @@
 {
-  "name": "native-base-web",
+  "name": "@jcribeiro/native-base-web",
   "description": "NativeBase for react-native-web",
   "author": "Chion82",
   "keywords": [
@@ -47,7 +47,7 @@
       "Fonts"
     ]
   },
-  "main": "index.js",
+  "main": "lib/index.js",
   "repository": {
     "type": "git",
     "url": "git://github.com/Chion82/native-base-web.git"
